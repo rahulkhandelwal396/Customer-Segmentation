@@ -1,1 +1,1 @@
-# customer_segmentation
+# Customer Segmentation in Online Retail
